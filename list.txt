@@ -3,3 +3,7 @@ Julia Oseledko
 Vlad Kaut
 Vadim Boyarskiy
 Golub Vova
+Xenia Gule
+Ruma Jelud
+Vadim Boyarski
+>>>>>>> f731da83c2a1e8b8f9c53b77a3d883aff2b4c2d0
